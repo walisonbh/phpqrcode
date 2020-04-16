@@ -4,7 +4,6 @@
     "type": "library",
     "keywords": ["php", "qrcode"],
     "homepage": "http://phpqrcode.sourceforge.net/",
-    "license": "GNU Lesser General Public License",
     "require": {
         "php": ">=5.3"
     }, 
