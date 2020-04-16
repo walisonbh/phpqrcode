@@ -1,0 +1,16 @@
+{
+    "name": "walisonbh/phpqrcode",
+    "description": "This is PHP implementation of QR Code 2-D barcode generator. It is pure-php LGPL-licensed implementation based on C libqrencode by Kentaro Fukuchi.",
+    "type": "library",
+    "keywords": ["php", "qrcode"],
+    "homepage": "http://phpqrcode.sourceforge.net/",
+    "license": "GNU Lesser General Public License",
+    "require": {
+        "php": ">=5.3"
+    }, 
+    "autoload": {
+        "psr-4": {
+            "PHPQRCode\\": "src"
+        }
+    }
+}
